@@ -16,13 +16,9 @@
   <img align="center" alt="Jhonatha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Jhonatha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Jhonatha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  
-  
-  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/mario-icegif-18.gif">
 </div>
   
-
 ##
   
 <div> 
