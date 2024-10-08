@@ -1,4 +1,4 @@
-## Meu Perfil !!
+![image](https://github.com/user-attachments/assets/176673e3-c706-4302-9d9d-77d9be7bdb9a)## Meu Perfil !!
 
 <div align="center">
   <a href="https://github.com/Jhonatha-Ruan">
@@ -17,7 +17,7 @@
   <img align="center" alt="Jhonatha-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jhonatha-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Jhonatha-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/mario-icegif-18.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ee430770-df2f-493d-8e11-e178794b36a5/d4txxx1-9177727a-412a-4ef8-9b06-92a7f8490ba6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VlNDMwNzcwLWRmMmYtNDkzZC04ZTExLWUxNzg3OTRiMzZhNVwvZDR0eHh4MS05MTc3NzI3YS00MTJhLTRlZjgtOWIwNi05MmE3Zjg0OTBiYTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0h3jC0lei2cVVENjeoG36YQ7Gu5Vwp0eV3COsSgaekM">
 </div>
   
 ##
